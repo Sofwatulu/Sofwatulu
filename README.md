@@ -3,7 +3,6 @@
 
 ---
 
-### Tentang Saya 👩‍💻
 - 🎓 Saat ini menempuh studi di **Jurusan Teknik Informatika**, **UIN Maulana Malik Ibrahim Malang** dengan NIM **230605110040**.
 - 🚀 Bergabung dalam kelas **Praktikum Pemrograman Mobile C**.
 
@@ -18,12 +17,12 @@
 ---
 ### Teknologi🛠️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,express,ts,mysql,php,html,css,postgres,prisma,redis" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,express,ts,php,html,css,postgres,prisma,redis" alt="Tech Stack" />
 </p>
 
 ---
 
-### Statistik GitHub Saya 📊
+### Statistik GitHub 📊
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sofwatulu&show_icons=true&theme=tokyonight&hide_rank=true" alt="Statistik GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofwatulu&theme=tokyonight" alt="Streak GitHub" />
