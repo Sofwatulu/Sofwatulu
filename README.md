@@ -1,5 +1,5 @@
-<h1 align="center">Halo, saya Sofwatul Ummah 👋</h1>
-<h3 align="center">Mahasiswa Teknik Informatika | UIN Maulana Malik Ibrahim Malang</h3>
+<h1 align="left">Halo, saya Sofwatul Ummah </h1>
+<h3 align="left">Mahasiswa Teknik Informatika | UIN Maulana Malik Ibrahim Malang</h3>
 
 ---
 
@@ -16,14 +16,14 @@
 | 4  | 02         | 02            | Widget Flexible dan Expanded                | [Modul 4](https://docs.google.com/document/d/1lTSqgAMhp31znaxX5Rzlf12pUPfcNVQ6bnsPZtenRsY/edit?usp=sharing)                    |            |
 
 ---
-### Teknologi🛠️
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,express,ts,php,html,css,postgres,prisma,redis" alt="Tech Stack" />
+### Teknologi
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,express,ts,postgres,prisma,redis" alt="Tech Stack" />
 </p>
 
 ---
 
-### Statistik GitHub 📊
+### Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sofwatulu&show_icons=true&theme=tokyonight&hide_rank=true" alt="Statistik GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofwatulu&theme=tokyonight" alt="Streak GitHub" />
@@ -31,7 +31,7 @@
 
 ---
 
-### Bahasa Pemrograman Favorit 📚
+### Bahasa Pemrograman Favorit
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofwatulu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
