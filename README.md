@@ -11,8 +11,8 @@
 ### Mata Kuliah Praktikum Pemrograman Mobile
 | No  | Tanggal  | Topik  | Laporan  | Repostory  |
 | :------------: |------------| :------------: | :------------: | :------------: |
-|1|3 September 2025|Pengenalan Mobile Programming dan Setup|[Modul 1](https://docs.google.com/document/d/13UBlUcYZB9c7AJH-WQKPM_KrQx_WEZIq2tNixr_n25E/edit?usp=sharing)|   |
-|2|10 September 2025|Widget Row dan Column|   |   |
+|1|3 September 2025|Pengenalan Mobile Programming dan Setup|[Modul 1](https://docs.google.com/document/d/13kxRRzh02LXXdD4EHpuPy63z7PcS1HGUGi_tVSdcuek/edit?usp=sharing)||
+|2|10 September 2025|Widget Row dan Column|[Modul 2](https://docs.google.com/document/d/1lTSqgAMhp31znaxX5Rzlf12pUPfcNVQ6bnsPZtenRsY/edit?usp=sharing)|   |
 
 
 ---
