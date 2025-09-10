@@ -10,7 +10,7 @@
 ### Mata Kuliah Praktikum Pemrograman Mobile
 | No | Minggu Ke- | Praktikum Ke- | Topik                                       | Laporan                                                                                                                         | Repository |
 |:--:|:----------:|:-------------:|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------|
-| 1  | 01         | 01            | Pengenalan Mobile Programming dan Setup     | [Modul 1](https://docs.google.com/document/d/13kxRRzh02LXXdD4EHpuPy63z7PcS1HGUGi_tVSdcuek/edit?usp=sharing)                    |[Repostory Modul 1](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul01.git)|
+| 1  | 01         | 01            | Pengenalan Mobile Programming dan Setup     | [Modul 1](https://docs.google.com/document/d/13kxRRzh02LXXdD4EHpuPy63z7PcS1HGUGi_tVSdcuek/edit?usp=sharing)                    |[Repository Modul 1](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul01.git)|
 | 2  | 01         | 01            | Widget Row dan Column                       | [Modul 2](https://docs.google.com/document/d/1lTSqgAMhp31znaxX5Rzlf12pUPfcNVQ6bnsPZtenRsY/edit?usp=sharing)                    |            |
 | 3  | 02         | 02            | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://docs.google.com/document/d/1lTSqgAMhp31znaxX5Rzlf12pUPfcNVQ6bnsPZtenRsY/edit?usp=sharing)                    |            |
 | 4  | 02         | 02            | Widget Flexible dan Expanded                | [Modul 4](https://docs.google.com/document/d/1lTSqgAMhp31znaxX5Rzlf12pUPfcNVQ6bnsPZtenRsY/edit?usp=sharing)                    |            |
