@@ -15,7 +15,7 @@
 | 3  | 02         | 02            | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://docs.google.com/document/d/1UwcxHY5cEi-XK88Ayz78gBP0LVHfdGdXth2Q19Ytabg/edit?usp=sharing)                    |[Repository Modul 3](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul03.git)|
 | 4  | 02         | 02            | Widget Flexible dan Expanded                | [Modul 4](https://docs.google.com/document/d/1S8HYU_nrT_Fh4jy8zz5Wfv7TI-6qN8faS-r73GJdtig/edit?usp=sharing)                    |[Repository Modul 4](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul04.git)|
 | 5  | 03         | 03            | Widget SizedBox, Spacer, dan Card           | [Modul 5](https://docs.google.com/document/d/1_VaIXRixz5qhsApwVHWrQaIjm6a-k3coNb45XKUraH0/edit?usp=sharing)                    |[Repository Modul 5](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul05.git)|
-| 6  | 03         | 03            | Widget Flexible dan Expanded                | [Modul 6](https://docs.google.com/document/d/1b82bSYjT6u3lEYkNjN3GVnBy3IdvCu0q5CwW66xdjRQ/edit?usp=sharing)                    |[Repository Modul 6](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul06.git)|
+| 6  | 03         | 03            | Widget GridView, ListView, GridView.builder, dan ListView.builder| [Modul 6](https://docs.google.com/document/d/1b82bSYjT6u3lEYkNjN3GVnBy3IdvCu0q5CwW66xdjRQ/edit?usp=sharing)                    |[Repository Modul 6](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul06.git)|
 
 ---
 ### Teknologi
