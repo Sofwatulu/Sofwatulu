@@ -17,7 +17,7 @@
 | 5  | 03         | 03            | Widget SizedBox, Spacer, dan Card           | [Modul 5](https://docs.google.com/document/d/1_VaIXRixz5qhsApwVHWrQaIjm6a-k3coNb45XKUraH0/edit?usp=sharing)                    |[Repository Modul 5](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul05.git)|
 | 6  | 03         | 03            | Widget GridView, ListView, GridView.builder, dan ListView.builder| [Modul 6](https://docs.google.com/document/d/1b82bSYjT6u3lEYkNjN3GVnBy3IdvCu0q5CwW66xdjRQ/edit?usp=sharing)|[Repository Modul 6](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul06.git)|
 | 7  | 04         | 04            |Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route| [Modul 7](https://docs.google.com/document/d/1vfUh6z3d5VSLgcNzCgAIqAqkSRdJoQ8XFQzM-gacfv4/edit?usp=sharing)|[Repository Modul 7](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul07.git)|
-| 8  | 04         | 04            | Widget GridView, ListView, GridView.builder, dan ListView.builder| [Modul 8](https://docs.google.com/document/d/1dURYDbjOxEA_aYSB7vfa-hXGhub6oyfteOkHvyt9A6k/edit?usp=sharing)|[Repository Modul 8](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul08.git)|
+| 8  | 04         | 04            |Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route| [Modul 8](https://docs.google.com/document/d/1dURYDbjOxEA_aYSB7vfa-hXGhub6oyfteOkHvyt9A6k/edit?usp=sharing)|[Repository Modul 8](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul08.git)|
 
 ---
 ### Teknologi
