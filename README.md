@@ -19,6 +19,7 @@
 | 7  | 04         | 04            |Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route| [Modul 7](https://docs.google.com/document/d/1vfUh6z3d5VSLgcNzCgAIqAqkSRdJoQ8XFQzM-gacfv4/edit?usp=sharing)|[Repository Modul 7](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul07.git)|
 | 8  | 04         | 04            |Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route| [Modul 8](https://docs.google.com/document/d/1dURYDbjOxEA_aYSB7vfa-hXGhub6oyfteOkHvyt9A6k/edit?usp=sharing)|[Repository Modul 8](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul08.git)|
 | 9  | 05         | 05            |StatefulWidget| [Modul 9](https://docs.google.com/document/d/1IXVTl-Gt-PzUf1p83ZsKRt77OBt9f9pAZX0UlhPrMP0/edit?usp=sharing)|[Repository Modul 9](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul09.git)|
+| 10  | 06         | 06           |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Modul 10](https://docs.google.com/document/d/1YLgPtit8SS_7nHcKDRiN09hGjLpIJHZRFQiRXE8qNXE/edit?usp=sharing)|[Repository Modul 9](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul10.git)|
 ---
 ### Teknologi
 <p align="left">
