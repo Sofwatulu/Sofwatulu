@@ -24,6 +24,7 @@
 | 12  | 08        | 08           |UTS| [UTS](https://docs.google.com/document/d/1ANjDZRxq1WAZIRtc0p6hNHvoSBUt1slAYH-FKsBpk8Y/edit?usp=sharing)|[Repository UTS](https://github.com/Sofwatulu/PrakPemrogramanMobile-UTS.git)|
 | 13  | 09        | 09           |Akses Lokasi dengan GPS di Flutter| [Modul 12](https://docs.google.com/document/d/1LqX6Vn9KI9lJYnNI9S1Q4XHSY0-snjv-qY9sEwrVor4/edit?usp=sharing)|[Repository Modul 12](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul12.git)|
 | 14  | 10        | 10           |Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API| [Modul 13](https://docs.google.com/document/d/12BBWc9Ct-N75krGTNekogCd5oy8nXJWs45KvkdOUzRk/edit?usp=sharing)|[Repository Modul 13](https://github.com/Sofwatulu/PrakPemrogramanMobile-Modul13.git)|
+| 15  | 11        | 11           |UAS| [UAS](https://docs.google.com/document/d/145o5NI9jFiKA6pFzf4sS84gEYqWDRHGIGPMQ0YgxMC0/edit?usp=sharing)|[Repository UAS](https://github.com/Sofwatulu/PrakPemrogramanMobile-UAS.git)|
 ---
 ### Teknologi
 <p align="left">
