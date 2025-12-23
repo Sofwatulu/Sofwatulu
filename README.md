@@ -4,7 +4,7 @@
 ---
 
 - 🎓 Saat ini menempuh studi di **Jurusan Teknik Informatika**, **UIN Maulana Malik Ibrahim Malang** dengan NIM **230605110040**.
-- 🚀 Bergabung dalam kelas **Praktikum Pemrograman Mobile C**.
+- 🚀 Bergabung dalam kelas **Praktikum Pemrograman Mobile A**.
 
 ---
 ### Mata Kuliah Praktikum Pemrograman Mobile
